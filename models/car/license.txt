@@ -1,0 +1,11 @@
+Model Information:
+* title:	2003 Chevrolet Express GMC Savana 2500 Cargo Van
+* source:	https://sketchfab.com/3d-models/2003-chevrolet-express-gmc-savana-2500-cargo-van-ed2a0b37a01e4e51ba5b82c35d4a9dae
+* author:	Ddiaz Design (https://sketchfab.com/ddiaz-design)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "2003 Chevrolet Express GMC Savana 2500 Cargo Van" (https://sketchfab.com/3d-models/2003-chevrolet-express-gmc-savana-2500-cargo-van-ed2a0b37a01e4e51ba5b82c35d4a9dae) by Ddiaz Design (https://sketchfab.com/ddiaz-design) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
