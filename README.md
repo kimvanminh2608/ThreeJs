@@ -1,5 +1,5 @@
 ---------------------------------------------------------
-         Example Three.Js Website
+#Example Three.Js Website
 ---------------------------------------------------------
 
 Model Littlest Tokyo by Glenn Fox
